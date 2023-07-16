@@ -1,0 +1,2 @@
+# IDF
+ Inverse Document Frequency
